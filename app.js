@@ -1,5 +1,5 @@
 const pesticideProducts = [
-  {name:'جرين شيلد 80 WP', desc:'مبيد فطري ضمن برامج العناية الوقائية بالمحاصيل.', price:190, type:'مبيدات زراعية', image:'pesticide-1.png'},
+  {name:'جرين شيلد 80 WP', desc:'مبيد فطري ضمن برامج العناية الوقائية بالمحاصيل.', price:190, type:'مبيدات زراعية', image:'metastor-391.png'},
   {name:'فيلد سيف 48 EC', desc:'منتج مخصص للاستخدام وفقاً لملصق المنتج والتوصيات.', price:240, type:'مبيدات زراعية', image:'pesticide-2.png'},
   {name:'كروب كير 35 SC', desc:'خيار متاح لبرامج مكافحة الآفات الزراعية المسجلة.', price:215, type:'مبيدات زراعية', image:'pesticide-3.png'},
   {name:'أجرو جارد 1.8% EC', desc:'يستخدم تحت إشراف المختصين وبحسب إرشادات العبوة.', price:175, type:'مبيدات زراعية', image:'pesticide-4.png'},
