@@ -7,7 +7,7 @@ const pesticideProducts = [
   {name:'جرين فيلد 40 SC', desc:'تركيبة زراعية للاستخدام المهني الموجّه.', price:230, type:'مبيدات زراعية', image:'pesticide-6.png'}
 ];
 const fertilizerProducts = [
-  {name:'NPK 20-20-20', desc:'سماد مركب متوازن لبرامج التسميد المختلفة.', price:250, type:'أسمدة ومغذيات', image:'fertilizer-1.png'},
+  {name:'NPK 20-20-20', desc:'سماد مركب متوازن لبرامج التسميد المختلفة.', price:250, type:'أسمدة ومغذيات', image:'metastor-391.png'},
   {name:'سماد عضوي محبب', desc:'منتج عضوي داعم لتحسين خصوبة التربة.', price:180, type:'أسمدة ومغذيات', image:'fertilizer-2.png'},
   {name:'سلفات بوتاسيوم', desc:'مصدر للبوتاسيوم ضمن برامج تغذية النبات.', price:230, type:'أسمدة ومغذيات', image:'fertilizer-3.png'},
   {name:'نترات كالسيوم', desc:'مصدر للكالسيوم ضمن برامج التسميد المتوازنة.', price:200, type:'أسمدة ومغذيات', image:'fertilizer-4.png'},
